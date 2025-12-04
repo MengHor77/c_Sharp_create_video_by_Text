@@ -11,4 +11,6 @@ audio.mp3
 temp.mp4 
 output.mp4 
 ffmpeg-2025-12-01-git-7043522fe0-full_build/ 
+*.txt
+*.mp4
 

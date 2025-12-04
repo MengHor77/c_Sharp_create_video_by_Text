@@ -13,12 +13,13 @@ namespace c_Sharp_video
         static string ffmpegPath = @"D:\c_Sharp_video\c_Sharp_video\ffmpeg-2025-12-01-git-7043522fe0-full_build\bin\ffmpeg.exe";
         static void Main(string[] args)
         {
-            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\Discipline.txt";
+            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\How_to_tudy_English_to_Speak_Fluentl_with_Friends.txt";
             string imageFile = @"D:\c_Sharp_video\c_Sharp_video\image.jpg";
             string mp3File = @"D:\c_Sharp_video\c_Sharp_video\audio.mp3";
             string srtFile = @"D:\c_Sharp_video\c_Sharp_video\video.srt";
             string tempVideo = @"D:\c_Sharp_video\c_Sharp_video\tempVideo.mp4";
-            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\Discipline.mp4";
+            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\How_to_tudy_English_to_Speak_Fluentl_with_Friends.mp4";
+            
 
             if (!File.Exists(txtFile) || !File.Exists(imageFile))
             {
@@ -51,7 +52,7 @@ namespace c_Sharp_video
             File.Delete(tempVideo);
 
             if (File.Exists(outputVideo))
-                Console.WriteLine($"\n✅ Final video created: {outputVideo}");
+                Console.WriteLine($"\n Final video created: {outputVideo}");
             else
                 Console.WriteLine("\n❌ Failed to create final video.");
         }
