@@ -52,7 +52,7 @@ namespace c_Sharp_video
             File.Delete(tempVideo);
 
             if (File.Exists(outputVideo))
-                Console.WriteLine($"\n Final video created: {outputVideo}");
+                Console.WriteLine($"\n the video created successful!: {outputVideo}");
             else
                 Console.WriteLine("\n❌ Failed to create final video.");
         }
