@@ -13,12 +13,12 @@ namespace c_Sharp_video
         static string ffmpegPath = @"D:\c_Sharp_video\c_Sharp_video\ffmpeg-2025-12-01-git-7043522fe0-full_build\bin\ffmpeg.exe";
         static void Main(string[] args)
         {
-            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\What_We_Want_to_Know_in_Society.txt";
+            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\THE_JOURNEY_TO_THE_MOUNTAIN_OF_DREAMS.txt";
             string imageFile = @"D:\c_Sharp_video\c_Sharp_video\image.jpg";
             string mp3File = @"D:\c_Sharp_video\c_Sharp_video\audio.mp3";
             string srtFile = @"D:\c_Sharp_video\c_Sharp_video\video.srt";
             string tempVideo = @"D:\c_Sharp_video\c_Sharp_video\tempVideo.mp4";
-            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\What_We_Want_to_Know_in_Society.mp4";
+            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\THE_JOURNEY_TO_THE_MOUNTAIN_OF_DREAMS.mp4";
             
 
             if (!File.Exists(txtFile) || !File.Exists(imageFile))
@@ -94,7 +94,7 @@ namespace c_Sharp_video
                     using (var synth = new SpeechSynthesizer())
                     {
                         synth.SelectVoice("Microsoft Mark"); // or any neural voice you have , we can change any voice here 
-                        synth.Rate = -2;
+                        synth.Rate = -4;
                         synth.Volume = 100;
                         synth.SetOutputToWaveFile(wavFile);
                         synth.Speak(blockText);
