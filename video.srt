@@ -1,244 +1,209 @@
 1
-00:00:00,000 --> 00:00:04,723
-Learning to speak English fluently with your friends is not
+00:00:00,000 --> 00:00:05,842
+Topic: What We Want to Know in Society
+In every society,
 
 2
-00:00:04,723 --> 00:00:10,442
-something that happens overnight, but it becomes much easier when
+00:00:05,842 --> 00:00:11,489
+people are naturally curious about many aspects of life, and
 
 3
-00:00:10,442 --> 00:00:13,946
-you follow the right habits and methods
+00:00:11,489 --> 00:00:16,904
+this curiosity shapes the way we live, interact, and make
 
 4
-00:00:13,946 --> 00:00:18,315
-The first and most important thing is *consistency*
+00:00:16,904 --> 00:00:18,826
+decisions
 
 5
-00:00:18,315 --> 00:00:23,893
-You must expose yourself to English every single day, even
+00:00:18,826 --> 00:00:22,669
+One of the first things people want to know is
 
 6
-00:00:23,893 --> 00:00:27,347
-if only for ten or fifteen minutes
+00:00:22,669 --> 00:00:26,728
+how to live better and improve their quality of life
 
 7
-00:00:27,347 --> 00:00:33,416
-Your brain learns languages through repetition, so small and steady
+00:00:26,728 --> 00:00:33,265
+This includes knowledge about health, education, work, and personal development
 
 8
-00:00:33,416 --> 00:00:38,545
-practice is better than studying for many hours only once
+00:00:33,265 --> 00:00:39,170
+People seek guidance on how to achieve happiness, success, and
 
 9
-00:00:38,545 --> 00:00:40,154
-a week
+00:00:39,170 --> 00:00:42,889
+stability for themselves and their families
 
 10
-00:00:40,154 --> 00:00:46,783
-Start by listening to English conversations from movies, YouTube channels,
+00:00:42,889 --> 00:00:47,864
+Another important area of interest is understanding other people
 
 11
-00:00:46,783 --> 00:00:52,891
-podcasts, or even small dialogue videos made for learners
+00:00:47,864 --> 00:00:52,399
+Humans are social creatures, and we want to know how
 
 12
-00:00:52,891 --> 00:00:58,180
-When you listen, do not try to understand every single
+00:00:52,399 --> 00:00:55,860
+others think, feel, and behave
 
 13
-00:00:58,180 --> 00:00:59,724
-word
+00:00:55,860 --> 00:01:02,223
+We want to understand social norms, culture, traditions, and values,
 
 14
-00:00:59,724 --> 00:01:05,143
-Instead, focus on the main ideas, the tone, and the
+00:01:02,223 --> 00:01:06,603
+because these influence how we relate to one another and
 
 15
-00:01:05,143 --> 00:01:08,327
-natural flow of the sentences
+00:01:06,603 --> 00:01:09,837
+how we fit into the larger community
 
 16
-00:01:08,327 --> 00:01:14,250
-Listening helps your mouth automatically learn correct pronunciation and rhythm
+00:01:09,837 --> 00:01:15,420
+Many individuals are also interested in current events and developments
 
 17
-00:01:14,250 --> 00:01:18,714
-Next, you need to *shadow* native speakers
+00:01:15,420 --> 00:01:17,350
+in society
 
 18
-00:01:18,714 --> 00:01:23,948
-Shadowing means listening to a sentence and repeating it immediately,
+00:01:17,350 --> 00:01:21,640
+They want to know what is happening in politics, the
 
 19
-00:01:23,948 --> 00:01:29,427
-copying the pronunciation, speed, stress, and emotion
+00:01:21,640 --> 00:01:27,870
+economy, technology, and the environment because these factors can affect
 
 20
-00:01:29,427 --> 00:01:35,580
-You can find short clips, turn on subtitles, and repeat
+00:01:27,870 --> 00:01:31,108
+their lives directly or indirectly
 
 21
-00:01:35,580 --> 00:01:40,474
-them three or four times until your mouth becomes comfortable
+00:01:31,108 --> 00:01:36,942
+Safety and security are also major concerns; people want to
 
 22
-00:01:40,474 --> 00:01:42,643
-with the sounds
+00:01:36,942 --> 00:01:41,450
+know how to protect themselves and their communities from crime,
 
 23
-00:01:42,643 --> 00:01:48,377
-Shadowing is extremely helpful because it trains your speaking muscles
+00:01:41,450 --> 00:01:44,763
+accidents, and disasters
 
 24
-00:01:48,377 --> 00:01:54,260
-and makes your pronunciation more natural, especially if your goal
+00:01:44,763 --> 00:01:49,778
+Furthermore, people are curious about justice and fairness
 
 25
-00:01:54,260 --> 00:01:59,229
-is to speak with friends in a casual, confident way
+00:01:49,778 --> 00:01:54,217
+They want to know how laws are applied, whether rights
 
 26
-00:01:59,229 --> 00:02:05,888
-Another important step is learning simple *daily vocabulary and real-life
+00:01:54,217 --> 00:01:59,329
+are respected, and how social inequalities can be addressed
 
 27
-00:02:05,888 --> 00:02:08,617
-expressions*
+00:01:59,329 --> 00:02:04,630
+In addition to practical concerns, many people are driven by
 
 28
-00:02:08,617 --> 00:02:14,325
-Many learners try to memorize difficult words, but you only
+00:02:04,630 --> 00:02:07,447
+intellectual curiosity
 
 29
-00:02:14,325 --> 00:02:18,829
-need the words that help you communicate in daily life:
+00:02:07,447 --> 00:02:13,009
+They want to know about history, philosophy, science, and human
 
 30
-00:02:18,829 --> 00:02:25,943
-greetings, opinions, feelings, preferences, questions, and friendly comments
+00:02:13,009 --> 00:02:18,113
+behavior to understand why society functions the way it does
 
 31
-00:02:25,943 --> 00:02:30,997
-Write down phrases such as “I think…,” “In my opinion…,”
+00:02:18,113 --> 00:02:20,827
+and how it can be improved
 
 32
-00:02:30,997 --> 00:02:35,496
-“That sounds great,” “Can you explain that again
+00:02:20,827 --> 00:02:25,884
+Social relationships and networks are another area of interest
 
 33
-00:02:35,496 --> 00:02:37,635
-” “What do you mean
+00:02:25,884 --> 00:02:30,096
+People want to know who they can trust, who can
 
 34
-00:02:37,635 --> 00:02:41,154
-” and “Let me try to say it another way
+00:02:30,096 --> 00:02:34,249
+help them, and how to build meaningful connections
 
 35
-00:02:41,154 --> 00:02:45,403
-” These expressions are used all the time in real
+00:02:34,249 --> 00:02:39,667
+In modern society, the spread of information through the internet
 
 36
-00:02:45,403 --> 00:02:50,356
-conversations and will instantly make you sound more fluent
+00:02:39,667 --> 00:02:43,858
+and media has increased the desire to know more about
 
 37
-00:02:50,356 --> 00:02:56,900
-To improve even faster, you must *practice speaking regularly*, even
+00:02:43,858 --> 00:02:50,191
+trends, lifestyles, opinions, and the experiences of others
 
 38
-00:02:56,900 --> 00:02:59,509
-if you don’t have a partner
+00:02:50,191 --> 00:02:56,347
+Curiosity also drives innovation and creativity; by learning about new
 
 39
-00:02:59,509 --> 00:03:05,418
-You can talk to yourself, describe your day, explain your
+00:02:56,347 --> 00:03:02,392
+ideas and solutions, people can contribute to societal progress
 
 40
-00:03:05,418 --> 00:03:09,777
-plans, or summarize something you watched
+00:03:02,392 --> 00:03:07,739
+Finally, people want to know themselves better within the context
 
 41
-00:03:09,777 --> 00:03:14,241
-Speaking out loud builds confidence and removes fear
+00:03:07,739 --> 00:03:09,663
+of society
 
 42
-00:03:14,241 --> 00:03:19,464
-When you do talk with friends, don’t worry about mistakes
+00:03:09,663 --> 00:03:16,794
+They seek self-awareness, understanding of their role, responsibilities, and potential
 
 43
-00:03:19,464 --> 00:03:21,254
-or grammar
+00:03:16,794 --> 00:03:19,176
+impact on the world
 
 44
-00:03:21,254 --> 00:03:27,187
-Fluency grows when you focus on expressing ideas, not when
+00:03:19,176 --> 00:03:23,818
+In conclusion, what we want to know in society is
 
 45
-00:03:27,187 --> 00:03:29,991
-you focus on perfection
+00:03:23,818 --> 00:03:30,301
+diverse and multi-layered, ranging from personal well-being to understanding others,
 
 46
-00:03:29,991 --> 00:03:33,705
-If you make a mistake, keep going
+00:03:30,301 --> 00:03:37,098
+staying informed, ensuring safety, and contributing positively to the community
 
 47
-00:03:33,705 --> 00:03:37,359
-Native speakers also make mistakes
+00:03:37,098 --> 00:03:43,204
+By continuously seeking knowledge, individuals not only improve their own
 
 48
-00:03:37,359 --> 00:03:41,603
-Another powerful technique is to *think in English*
+00:03:43,204 --> 00:03:48,623
+lives but also help society grow, develop, and adapt to
 
 49
-00:03:41,603 --> 00:03:47,647
-Start with simple sentences in your mind: “I’m walking,” “I’m
+00:03:48,623 --> 00:03:50,962
+the changing world
 
 50
-00:03:47,647 --> 00:03:53,056
-cooking,” “Today is hot,” “I’m going to meet my friend
+00:03:50,962 --> 00:03:56,061
+Curiosity and the pursuit of knowledge are fundamental traits that
 
 51
-00:03:53,056 --> 00:03:57,410
-” When you think in English, you reduce the time
+00:03:56,061 --> 00:04:01,708
+drive both personal and collective progress, and they remain central
 
 52
-00:03:57,410 --> 00:04:02,664
-needed to translate from your native language, and this makes
-
-53
-00:04:02,664 --> 00:04:06,208
-your speech faster and more natural
-
-54
-00:04:06,208 --> 00:04:10,616
-Finally, create a fun learning environment
-
-55
-00:04:10,616 --> 00:04:16,700
-Watch content you enjoy, listen to English music, read short
-
-56
-00:04:16,700 --> 00:04:20,854
-stories, or chat with friends online
-
-57
-00:04:20,854 --> 00:04:26,013
-The more positive emotion you bring to learning, the faster
-
-58
-00:04:26,013 --> 00:04:29,472
-your brain remembers new information
-
-59
-00:04:29,472 --> 00:04:36,075
-Over time, your confidence will grow, your vocabulary will expand,
-
-60
-00:04:36,075 --> 00:04:40,939
-and you will feel more comfortable speaking English freely with
-
-61
-00:04:40,939 --> 00:04:42,903
-your friends
+00:04:01,708 --> 00:04:04,932
+to human life in every society
 

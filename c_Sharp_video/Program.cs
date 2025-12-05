@@ -13,12 +13,12 @@ namespace c_Sharp_video
         static string ffmpegPath = @"D:\c_Sharp_video\c_Sharp_video\ffmpeg-2025-12-01-git-7043522fe0-full_build\bin\ffmpeg.exe";
         static void Main(string[] args)
         {
-            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\How_to_tudy_English_to_Speak_Fluentl_with_Friends.txt";
+            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\What_We_Want_to_Know_in_Society.txt";
             string imageFile = @"D:\c_Sharp_video\c_Sharp_video\image.jpg";
             string mp3File = @"D:\c_Sharp_video\c_Sharp_video\audio.mp3";
             string srtFile = @"D:\c_Sharp_video\c_Sharp_video\video.srt";
             string tempVideo = @"D:\c_Sharp_video\c_Sharp_video\tempVideo.mp4";
-            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\How_to_tudy_English_to_Speak_Fluentl_with_Friends.mp4";
+            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\What_We_Want_to_Know_in_Society.mp4";
             
 
             if (!File.Exists(txtFile) || !File.Exists(imageFile))
@@ -91,11 +91,15 @@ namespace c_Sharp_video
                     int end = Math.Min(i + wordsPerBlock, words.Length);
                     string blockText = string.Join(" ", words, i, end - i);
                     string wavFile = Path.Combine(Path.GetTempPath(), $"block_{i}_{Guid.NewGuid():N}.wav");
-
                     using (var synth = new SpeechSynthesizer())
                     {
-                        synth.Rate = -2; synth.Volume = 100; synth.SetOutputToWaveFile(wavFile); synth.Speak(blockText);
+                        synth.SelectVoice("Microsoft Mark"); // or any neural voice you have , we can change any voice here 
+                        synth.Rate = -2;
+                        synth.Volume = 100;
+                        synth.SetOutputToWaveFile(wavFile);
+                        synth.Speak(blockText);
                     }
+
 
                     TimeSpan duration;
                     using (var reader = new AudioFileReader(wavFile)) duration = reader.TotalTime;
