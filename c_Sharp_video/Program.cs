@@ -13,12 +13,12 @@ namespace c_Sharp_video
         static string ffmpegPath = @"D:\c_Sharp_video\c_Sharp_video\ffmpeg-2025-12-01-git-7043522fe0-full_build\bin\ffmpeg.exe";
         static void Main(string[] args)
         {
-            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\THE_JOURNEY_TO_THE_MOUNTAIN_OF_DREAMS.txt";
+            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\The_Friend_I_Never_Expected_to_Meet.txt";
             string imageFile = @"D:\c_Sharp_video\c_Sharp_video\image.jpg";
             string mp3File = @"D:\c_Sharp_video\c_Sharp_video\audio.mp3";
             string srtFile = @"D:\c_Sharp_video\c_Sharp_video\video.srt";
             string tempVideo = @"D:\c_Sharp_video\c_Sharp_video\tempVideo.mp4";
-            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\THE_JOURNEY_TO_THE_MOUNTAIN_OF_DREAMS.mp4";
+            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\The_Friend_I_Never_Expected_to_Meet.mp4";
             
 
             if (!File.Exists(txtFile) || !File.Exists(imageFile))
@@ -124,11 +124,16 @@ namespace c_Sharp_video
 
         static string PreScaleImage(string img, int w, int h)
         {
-            try { using var image = System.Drawing.Image.FromFile(img); if (image.Width <= w && image.Height <= h) return img; } catch { }
             string scaled = Path.Combine(Path.GetTempPath(), $"scaled_{Guid.NewGuid():N}.jpg");
-            RunFFmpeg($"-i \"{img}\" -vf \"scale={w}:{h}:force_original_aspect_ratio=decrease,pad={w}:{h}:(ow-iw)/2:(oh-ih)/2\" -y \"{scaled}\"");
+
+            RunFFmpeg(
+                $"-i \"{img}\" -vf \"scale={w}:{h}:force_original_aspect_ratio=increase," +
+                $"crop={w}:{h}\" -y \"{scaled}\""
+            );
+
             return scaled;
         }
+
 
         static string FormatTime(TimeSpan t) => $"{t.Hours:00}:{t.Minutes:00}:{t.Seconds:00},{t.Milliseconds:000}";
 
