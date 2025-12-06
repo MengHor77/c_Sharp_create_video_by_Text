@@ -13,12 +13,12 @@ namespace c_Sharp_video
         static string ffmpegPath = @"D:\c_Sharp_video\c_Sharp_video\ffmpeg-2025-12-01-git-7043522fe0-full_build\bin\ffmpeg.exe";
         static void Main(string[] args)
         {
-            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\When_Failure_Became_My_Teacher.txt";
-            string imageFile = @"D:\c_Sharp_video\c_Sharp_video\image.png";
+            string txtFile = @"D:\c_Sharp_video\c_Sharp_video\The_Power_of_Believing_in_Yourself.txt";
+            string imageFile = @"D:\c_Sharp_video\c_Sharp_video\image1.png";
             string mp3File = @"D:\c_Sharp_video\c_Sharp_video\audio.mp3";
             string srtFile = @"D:\c_Sharp_video\c_Sharp_video\video.srt";
             string tempVideo = @"D:\c_Sharp_video\c_Sharp_video\tempVideo.mp4";
-            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\When_Failure_Became_My_Teacher.mp4";
+            string outputVideo = @"D:\c_Sharp_video\c_Sharp_video\The_Power_of_Believing_in_Yourself1.mp4";
             
 
             if (!File.Exists(txtFile) || !File.Exists(imageFile))
@@ -47,7 +47,7 @@ namespace c_Sharp_video
             if (!File.Exists(tempVideo)) { Console.WriteLine("❌ Failed to create video"); return; }
 
             string srtEscaped = srtFile.Replace("\\", "\\\\").Replace(":", "\\:");
-            RunFFmpeg($"-i \"{tempVideo}\" -vf \"subtitles='{srtEscaped}':force_style='FontName=Arial,FontSize=24,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=2,Shadow=0,Alignment=2,MarginL=10,MarginR=10,MarginV=30'\" -c:v libx264 -preset fast -crf 23 -c:a copy -movflags +faststart -y \"{outputVideo}\"");
+            RunFFmpeg($"-i \"{tempVideo}\" -vf \"subtitles='{srtEscaped}':force_style='FontName=Arial,FontSize=24,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=3,Shadow=0,Alignment=2,MarginL=10,MarginR=10,MarginV=30'\" -c:v libx264 -preset fast -crf 23 -c:a copy -movflags +faststart -y \"{outputVideo}\"");
 
             File.Delete(tempVideo);
 
